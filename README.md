@@ -1,14 +1,43 @@
-# UM POUCO SOBRE MIM
-<p>Olá, seja bem-vindo ao meu perfil!</p>
-<p>Eu sou o Diogo, dev junior!</p>
+# Hello World!
 
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Simbolo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Simbolo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Simbolo JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Simbolo PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Simbolo C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Simbolo Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Simbolo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Foto do Diogo" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/73559768?s=400&u=5903366ce0ce042b2e407141114898e492041283&v=4">
-</div>
+My name is **Diogo Mainart Monteiro**. I'm a **researcher** at the Optimization Systems Lab (LOS Pampa) and a **Computer Science student** at the Federal University of Pampa (UNIPAMPA).
+
+<details>
+    <summary><h2>Education</h2></summary>
+
+### [Ongoing] Bachelor's degree in Computer Science
+- **Started in:** March 2023
+- **Institution:** [Federal University of Pampa (UNIPAMPA)](https://unipampa.edu.br/portal/)
+
+### Computer Technician
+- **Period:** February 2020 to December 2022
+- **Institution:** [Federal Institute Farroupilha (IFFar)](https://www.iffarroupilha.edu.br/portal)
+
+</details>
+
+
+
+<details>
+    <summary><h2>About myself</h2></summary>
+
+> ### What I am listening to right now?
+> 
+> ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21aodajay63c4rxwlrjnlutky&cover_image=true&theme=novatorem&show_offline=false&background_color=1c1c1c&interchange=false&bar_color=f1f1f1&bar_color_cover=false)
+
+- My veins are infused with the spirit of rock 'n' roll.
+
+- Extremely nerdy, I love to study and understand things, specially Star Wars and DC universe.
+
+- In my (rare) free time, I write stories or poems and watch TV series.
+</details>
+
+
+
+<details>
+    <summary><h2>Contact</h2></summary>
+
+- **Email:** diogomonteiro.aluno@unipampa.edu.br
+- **Curriculum Lattes:** [http://lattes.cnpq.br/2653484244901352](http://lattes.cnpq.br/2653484244901352)
+- **LinkedIn:** [https://linkedin.com/in/diogo2m](https://linkedin.com/in/diogo2m)
+
+</details>
